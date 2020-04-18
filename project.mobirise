@@ -29,7 +29,9 @@
       },
       "additionalSetColors": [
         "#06bc55",
-        "#0f275b"
+        "#0f275b",
+        "#ff1d00",
+        "#dd3f07"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -574,7 +576,7 @@
               "color": "#767676"
             },
             "H1": {
-              "color": "#0f275b"
+              "color": "#dd3f07"
             },
             "H3": {
               "color": "#55b4d4"
