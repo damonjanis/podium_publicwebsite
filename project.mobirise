@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Podium",
-    "currentPage": "index.html",
+    "currentPage": "faq.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2056,7 +2056,7 @@
         }
       ]
     },
-    "page3.html": {
+    "faq.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Questions and Answers",
