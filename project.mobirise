@@ -33,7 +33,8 @@
         "#ff1d00",
         "#dd3f07",
         "#ff0000",
-        "#504949"
+        "#504949",
+        "#3ced89"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -596,7 +597,7 @@
               "color": "#ffffff"
             },
             "H3": {
-              "color": "#ffffff"
+              "color": "#3ced89"
             },
             "H4": {
               "color": "#ffffff"
