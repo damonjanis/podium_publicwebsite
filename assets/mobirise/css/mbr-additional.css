@@ -1057,23 +1057,36 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-sakKj1osXB {
+.cid-saMZKkZtTr {
   padding-top: 90px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/investors-2000x1174.png");
 }
-.cid-sakKj1osXB P {
+.cid-saMZKkZtTr h3 {
+  text-align: center;
+}
+.cid-saMZKkZtTr .mbr-section-subtitle {
+  color: #efefef;
+  font-weight: 300;
+}
+.cid-saMZKkZtTr .mbr-content-text {
   color: #767676;
 }
-.cid-sakKj1osXB H1 {
+.cid-saMZKkZtTr .card {
+  word-wrap: break-word;
+}
+.cid-saMZKkZtTr .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-saMZKkZtTr .mbr-section-title {
   color: #ffffff;
 }
-.cid-sakKj1osXB H3 {
-  color: #ffffff;
+.cid-saMZKkZtTr H3 {
+  color: #cccccc;
 }
-.cid-sakKj1osXB .mbr-text,
-.cid-sakKj1osXB .mbr-section-btn {
-  color: #ffffff;
+.cid-saMZKkZtTr H4 {
+  color: #cccccc;
 }
 .cid-s3INLMzAVp {
   padding-top: 45px;
