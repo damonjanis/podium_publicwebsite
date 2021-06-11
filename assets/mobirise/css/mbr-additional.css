@@ -1057,36 +1057,33 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-saMZKkZtTr {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/investors-2000x1174.png");
+.cid-sA288YFdRq {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/b0002243-2000x1024.jpg");
 }
-.cid-saMZKkZtTr h3 {
-  text-align: center;
+.cid-sA288YFdRq .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
 }
-.cid-saMZKkZtTr .mbr-section-subtitle {
-  color: #efefef;
-  font-weight: 300;
-}
-.cid-saMZKkZtTr .mbr-content-text {
-  color: #767676;
-}
-.cid-saMZKkZtTr .card {
-  word-wrap: break-word;
-}
-.cid-saMZKkZtTr .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
-}
-.cid-saMZKkZtTr .mbr-section-title {
+.cid-sA288YFdRq .icons-media-container .mbr-iconfont {
+  font-size: 96px;
   color: #ffffff;
 }
-.cid-saMZKkZtTr H3 {
-  color: #cccccc;
+.cid-sA288YFdRq .icons-media-container .icon-block {
+  padding-bottom: 1rem;
 }
-.cid-saMZKkZtTr H4 {
-  color: #cccccc;
+.cid-sA288YFdRq .mbr-text {
+  color: #ffffff;
+}
+.cid-sA288YFdRq .card {
+  padding-bottom: 1.5rem;
 }
 .cid-s3INLMzAVp {
   padding-top: 45px;
